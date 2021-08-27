@@ -18,6 +18,7 @@ conda install pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch
 conda install -c anaconda scikit-image
 ```
 
-https://support.lumerical.com/hc/en-us/articles/360034407914-appopen
-Step 1 (only in 2020R2): Before launching MATLAB set the path; in powershell/cmd set PATH=C:\Program Files\Lumerical\v202\bin;%PATH%
-
+If running Lumerical 2020_R2 and the Integration tool in MATLAB:
+1) Before launching MATLAB set the path in powershell/cmd: PATH=C:\Program Files\Lumerical\v202\bin;%PATH%
+2) Then launch matlab from cmd (will not work if not launched from cmd): matlab
+Reference: https://support.lumerical.com/hc/en-us/articles/360034407914-appopen
