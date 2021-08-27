@@ -16,6 +16,11 @@ conda create -n myenv python=3.7
 conda activate myenv
 conda install pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch
 conda install -c anaconda scikit-image
+conda install -c anaconda opencv
+conda install -c anaconda scipy
+conda install matplotlib
+conda install pandas
+conda install spyder
 ```
 
 ## Running App in MATLAB
