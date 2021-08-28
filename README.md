@@ -32,7 +32,15 @@ Reference: https://support.lumerical.com/hc/en-us/articles/360034407914-appopen
 
 # Steps
 1) Run 'ML_Opt.mlapp' in MATLAB AppDesigner.
-2) Follow demo here:
+2) Set Preferences:
+
+a) Path to python executable with above modules installed. Ex: 'C:/Users/cyyeu/anaconda3/envs/myenv/python'
+
+b) Path to working directory with downloaded Lumerical files. Ex: 'C:/Users/cyyeu/Documents/ML-Optimization_Integration'
+
+c) Path to Lumerical MATLAB api directory. Ex. 'C:/Program Files/Lumerical/v202/api/matlab'
+
+3) Follow demo here:
 
 https://user-images.githubusercontent.com/36492956/131196740-a1e20f3d-b8e5-4f78-961b-e1fad8da7225.mp4
 
