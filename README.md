@@ -32,7 +32,8 @@ Reference: https://support.lumerical.com/hc/en-us/articles/360034407914-appopen
 
 # Steps
 1) Run 'ML_Opt.mlapp' in MATLAB AppDesigner.
-2) Set Preferences:
+2) Update 'Path' environment variable to '...\myenv\Library\bin' directory. Ex: 'C:\Users\cyyeu\anaconda3\envs\myenv\Library\bin'
+3) Set Preferences:
 
 2.1) Path to python executable with above modules installed. Ex: 'C:/Users/cyyeu/anaconda3/envs/myenv/python'
 
@@ -40,7 +41,7 @@ Reference: https://support.lumerical.com/hc/en-us/articles/360034407914-appopen
 
 3.3) Path to Lumerical MATLAB api directory. Ex. 'C:/Program Files/Lumerical/v202/api/matlab'
 
-3) Follow demo here:
+4) Follow demo here:
 
 https://user-images.githubusercontent.com/36492956/131196740-a1e20f3d-b8e5-4f78-961b-e1fad8da7225.mp4
 
