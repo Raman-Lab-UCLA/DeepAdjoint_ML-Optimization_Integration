@@ -7,7 +7,6 @@ The following software is required to run the provided scripts. As of this writi
 
 -Pytorch 1.9.0
 
--scikit-image 0.18.1
 
 Installation instructions for Pytorch (with CUDA) are at: https://pytorch.org/. For convenience, here are installation commands for the Conda distribution (after installing Anaconda: https://www.anaconda.com/products/individual).
 
