@@ -40,7 +40,7 @@ Reference: https://support.lumerical.com/hc/en-us/articles/360034407914-appopen
 
 3.3) Path to Lumerical MATLAB api directory. Ex. 'C:/Program Files/Lumerical/v202/api/matlab'
 
+
 4) Follow demo here:
 
-https://user-images.githubusercontent.com/36492956/131196740-a1e20f3d-b8e5-4f78-961b-e1fad8da7225.mp4
-
+https://user-images.githubusercontent.com/36492956/211403747-ee368d9c-6fd2-42c8-bd60-b67dfbe6a083.mp4
