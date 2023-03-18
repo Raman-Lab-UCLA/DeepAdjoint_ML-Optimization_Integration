@@ -1,4 +1,4 @@
-# ML-Optimization_Integration
+# ML-Optimization Integration (DeepAdjoint)
 
 ## Requirements
 The following software is required to run the provided scripts. As of this writing, the versions below have been tested and verified.
