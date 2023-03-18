@@ -40,7 +40,8 @@ Reference: https://support.lumerical.com/hc/en-us/articles/360034407914-appopen
 
 3.3) Path to Lumerical MATLAB api directory. Ex. 'C:/Program Files/Lumerical/v202/api/matlab'
 
+4) Use a GAN file for integration with DeepAdjoint. You can train your own GAN using the following repo: https://github.com/Raman-Lab-UCLA/DeepAdjoint_ML-Optimization_Integration, or download our trained GAN here: https://drive.google.com/drive/folders/1VWaH6JUx36FPzz7rm_nU2_vWC15xoDD6?usp=sharing
 
-4) Follow demo here:
+5) Follow demo here:
 
 https://user-images.githubusercontent.com/36492956/211403747-ee368d9c-6fd2-42c8-bd60-b67dfbe6a083.mp4
